@@ -55,7 +55,7 @@ nav {
     transition: color 0.3s;
 }
 
-.nav-links li a::after {
+/* .nav-links li a::after {
     content: '';
     position: absolute;
     left: 0;
@@ -64,7 +64,7 @@ nav {
     height: 2px;
     background-color: transparent;
     transition: background-color 0.3s;
-}
+} */
 
 .nav-links li a:hover {
     color: #6a1b9a;
